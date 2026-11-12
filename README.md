@@ -1,0 +1,2 @@
+# GTICC-frontent
+only frontend
